@@ -1,0 +1,18 @@
+{
+  "name": "piogram/telebot",
+  "description": "Telegram bot framework piogram",
+  "type": "project",
+  "autoload": {
+    "classmap": [
+      "private"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Ixlos IT company"
+    }
+  ],
+  "config": {
+    "vendor-dir": "private/lib/vendor/"
+  }
+}
