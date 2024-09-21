@@ -2,6 +2,7 @@
   "name": "piogram/telebot",
   "description": "Telegram bot framework piogram",
   "type": "project",
+  "license": ["MIT"],
   "autoload": {
     "classmap": [
       "private"
